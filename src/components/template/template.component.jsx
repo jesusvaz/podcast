@@ -18,7 +18,7 @@ return (
 
                 <nav>
                     <i class="fas fa-podcast fa-5x"></i>
-                    <h1>Republicano Latino Podcast</h1></nav>
+                    <h1>Podcast:Republicano Latino </h1></nav>
                 <main>
                 
                 {
