@@ -1,6 +1,7 @@
 import React from 'react'
 import './podcast.styles.scss'
-
+//https://stackoverflow.com/questions/56602005/play-audio-with-react
+//https://www.youtube.com/watch?v=MpQ1sVku-D0
 const Podcast = ({podcast}) => {
     return (
         <div>
