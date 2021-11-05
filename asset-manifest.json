@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/podcast/static/css/main.a3698e30.chunk.css",
-    "main.js": "/podcast/static/js/main.881bd97e.chunk.js",
-    "main.js.map": "/podcast/static/js/main.881bd97e.chunk.js.map",
-    "runtime-main.js": "/podcast/static/js/runtime-main.362e6819.js",
-    "runtime-main.js.map": "/podcast/static/js/runtime-main.362e6819.js.map",
-    "static/js/2.205e4ce9.chunk.js": "/podcast/static/js/2.205e4ce9.chunk.js",
-    "static/js/2.205e4ce9.chunk.js.map": "/podcast/static/js/2.205e4ce9.chunk.js.map",
-    "static/js/3.edaa4d96.chunk.js": "/podcast/static/js/3.edaa4d96.chunk.js",
-    "static/js/3.edaa4d96.chunk.js.map": "/podcast/static/js/3.edaa4d96.chunk.js.map",
+    "main.css": "/podcast/static/css/main.ff215ba1.chunk.css",
+    "main.js": "/podcast/static/js/main.49d25641.chunk.js",
+    "main.js.map": "/podcast/static/js/main.49d25641.chunk.js.map",
+    "runtime-main.js": "/podcast/static/js/runtime-main.8543b91c.js",
+    "runtime-main.js.map": "/podcast/static/js/runtime-main.8543b91c.js.map",
+    "static/css/2.c6dd086c.chunk.css": "/podcast/static/css/2.c6dd086c.chunk.css",
+    "static/js/2.e146f8b7.chunk.js": "/podcast/static/js/2.e146f8b7.chunk.js",
+    "static/js/2.e146f8b7.chunk.js.map": "/podcast/static/js/2.e146f8b7.chunk.js.map",
+    "static/js/3.0f0f0a5f.chunk.js": "/podcast/static/js/3.0f0f0a5f.chunk.js",
+    "static/js/3.0f0f0a5f.chunk.js.map": "/podcast/static/js/3.0f0f0a5f.chunk.js.map",
     "index.html": "/podcast/index.html",
-    "static/css/main.a3698e30.chunk.css.map": "/podcast/static/css/main.a3698e30.chunk.css.map",
-    "static/js/2.205e4ce9.chunk.js.LICENSE.txt": "/podcast/static/js/2.205e4ce9.chunk.js.LICENSE.txt"
+    "static/css/2.c6dd086c.chunk.css.map": "/podcast/static/css/2.c6dd086c.chunk.css.map",
+    "static/css/main.ff215ba1.chunk.css.map": "/podcast/static/css/main.ff215ba1.chunk.css.map",
+    "static/js/2.e146f8b7.chunk.js.LICENSE.txt": "/podcast/static/js/2.e146f8b7.chunk.js.LICENSE.txt",
+    "static/media/mp3one.04141a89.mp3": "/podcast/static/media/mp3one.04141a89.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.362e6819.js",
-    "static/js/2.205e4ce9.chunk.js",
-    "static/css/main.a3698e30.chunk.css",
-    "static/js/main.881bd97e.chunk.js"
+    "static/js/runtime-main.8543b91c.js",
+    "static/css/2.c6dd086c.chunk.css",
+    "static/js/2.e146f8b7.chunk.js",
+    "static/css/main.ff215ba1.chunk.css",
+    "static/js/main.49d25641.chunk.js"
   ]
 }
