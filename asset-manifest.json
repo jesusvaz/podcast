@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/podcast/static/css/main.ff215ba1.chunk.css",
-    "main.js": "/podcast/static/js/main.49d25641.chunk.js",
-    "main.js.map": "/podcast/static/js/main.49d25641.chunk.js.map",
-    "runtime-main.js": "/podcast/static/js/runtime-main.8543b91c.js",
-    "runtime-main.js.map": "/podcast/static/js/runtime-main.8543b91c.js.map",
+    "main.css": "/podcast/static/css/main.774d6627.chunk.css",
+    "main.js": "/podcast/static/js/main.7b67ff60.chunk.js",
+    "main.js.map": "/podcast/static/js/main.7b67ff60.chunk.js.map",
+    "runtime-main.js": "/podcast/static/js/runtime-main.ccf01ff0.js",
+    "runtime-main.js.map": "/podcast/static/js/runtime-main.ccf01ff0.js.map",
     "static/css/2.c6dd086c.chunk.css": "/podcast/static/css/2.c6dd086c.chunk.css",
-    "static/js/2.e146f8b7.chunk.js": "/podcast/static/js/2.e146f8b7.chunk.js",
-    "static/js/2.e146f8b7.chunk.js.map": "/podcast/static/js/2.e146f8b7.chunk.js.map",
-    "static/js/3.0f0f0a5f.chunk.js": "/podcast/static/js/3.0f0f0a5f.chunk.js",
-    "static/js/3.0f0f0a5f.chunk.js.map": "/podcast/static/js/3.0f0f0a5f.chunk.js.map",
+    "static/js/2.5dc32daf.chunk.js": "/podcast/static/js/2.5dc32daf.chunk.js",
+    "static/js/2.5dc32daf.chunk.js.map": "/podcast/static/js/2.5dc32daf.chunk.js.map",
+    "static/js/3.ead312a0.chunk.js": "/podcast/static/js/3.ead312a0.chunk.js",
+    "static/js/3.ead312a0.chunk.js.map": "/podcast/static/js/3.ead312a0.chunk.js.map",
     "index.html": "/podcast/index.html",
     "static/css/2.c6dd086c.chunk.css.map": "/podcast/static/css/2.c6dd086c.chunk.css.map",
-    "static/css/main.ff215ba1.chunk.css.map": "/podcast/static/css/main.ff215ba1.chunk.css.map",
-    "static/js/2.e146f8b7.chunk.js.LICENSE.txt": "/podcast/static/js/2.e146f8b7.chunk.js.LICENSE.txt",
+    "static/css/main.774d6627.chunk.css.map": "/podcast/static/css/main.774d6627.chunk.css.map",
+    "static/js/2.5dc32daf.chunk.js.LICENSE.txt": "/podcast/static/js/2.5dc32daf.chunk.js.LICENSE.txt",
+    "static/media/logo.83fbb442.png": "/podcast/static/media/logo.83fbb442.png",
     "static/media/mp3one.04141a89.mp3": "/podcast/static/media/mp3one.04141a89.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.8543b91c.js",
+    "static/js/runtime-main.ccf01ff0.js",
     "static/css/2.c6dd086c.chunk.css",
-    "static/js/2.e146f8b7.chunk.js",
-    "static/css/main.ff215ba1.chunk.css",
-    "static/js/main.49d25641.chunk.js"
+    "static/js/2.5dc32daf.chunk.js",
+    "static/css/main.774d6627.chunk.css",
+    "static/js/main.7b67ff60.chunk.js"
   ]
 }
