@@ -1,8 +1,10 @@
-
+import React from 'react';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
 import Main from './components/main/main.component';
 import CONTENT from './components/assets/conent';
 import {Container, Row, Col} from  'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'
+import About from './components/about/about.component';
 //<i class="fas fa-podcast"></i>
 //https://www.canva.com/create/youtube-thumbnails/
 
@@ -11,9 +13,16 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 // npm i react-bootstrap
 function App() {
   return (
+    <Router>
     <div className="App">
-      <Main podcasts={CONTENT}/>
+      <div className="container">
+        <Route exact path="/" render={props =>(
+          <Main podcasts={CONTENT}/>
+        )}/>
+        <Route path="/about" component={About} />
+     </div>
     </div>
+  </Router>
   );
 }
 
